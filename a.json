@@ -1,7 +1,7 @@
 {
   "spider": "./spider.jar",
   "wallpaper":"https://wallpaperaccess.com/full/173782.jpg",
-  "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
+  "logo":"http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
     {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_ConfigGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
