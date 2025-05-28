@@ -1,0 +1,180 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTINF:-1,斯玛特
+#genre#
+#EXTINF:-1,香港|RHK 31
+https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
+#EXTINF:-1,香港|凤凰卫视
+https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
+#EXTINF:-1,香港|凤凰资讯
+https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+#EXTINF:-1,中国|CCTV-1 综合 HD
+https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+#EXTINF:-1,中国|CCTV-2 财经
+https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+#EXTINF:-1,中国|CCTV-3 综艺 HD
+https://smart.pendy.dpdns.org/Smart.php?id=cctv3
+#EXTINF:-1,中国|CCTV-4 中文国际
+https://smart.pendy.dpdns.org/Smart.php?id=cctv4
+#EXTINF:-1,中国|CCTV4 新闻台
+https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
+#EXTINF:-1,台湾|TVBS News 新闻台
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
+#EXTINF:-1,台湾|TVBS 欢乐台
+https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
+#EXTINF:-1,台湾|HBO_HD
+https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
+#EXTINF:-1,台湾|HBO_HITS
+https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
+#EXTINF:-1,台湾|Hollywood Movies
+https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
+#EXTINF:-1,台湾|CINEMAX
+https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
+#EXTINF:-1,台湾|AXN Taiwan
+https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
+#EXTINF:-1,台湾|亚洲美食
+https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
+#EXTINF:-1,台湾|美食星球
+https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
+#EXTINF:-1,台湾|亚洲旅游 TLC Asia
+https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
+#EXTINF:-1,台湾|东森电影 ETTV Movie
+https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+#EXTINF:-1,台湾|MTV Live
+https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
+#EXTINF:-1,台湾|龙详时代
+https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
+#EXTINF:-1,台湾|EYETV 旅游
+https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
+#EXTINF:-1,台湾|靖天卡通台
+https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
+#EXTINF:-1,台湾|EYETV 戏剧
+https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
+#EXTINF:-1,台湾|卫视中文台 Star Movies Chinese
+https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
+#EXTINF:-1,台湾|东森幼幼 Yoyo TV
+https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
+#EXTINF:-1,台湾|卫视电影台
+https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
+#EXTINF:-1,台湾|美亚电影
+https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
+#EXTINF:-1,台湾|爱尔达影剧台
+https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
+#EXTINF:-1,台湾|爱尔达综合台
+https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
+#EXTINF:-1,台湾|星卫电影
+https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
+#EXTINF:-1,台湾|AFC 亚洲旅游台
+https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
+#EXTINF:-1,电影频道|Cinemax
+https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
+#EXTINF:-1,电影频道|Animax
+https://smart.pendy.dpdns.org/Smart.php?id=Animax
+#EXTINF:-1,电影频道|Movies Now HD
+https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
+#EXTINF:-1,电影频道|Star Movies HD
+https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
+#EXTINF:-1,电影频道|HBO Family
+https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
+#EXTINF:-1,电影频道|Hits
+https://smart.pendy.dpdns.org/Smart.php?id=Hits
+#EXTINF:-1,电影频道|Warner TV
+https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
+#EXTINF:-1,电影频道|HBO HD
+https://smart.pendy.dpdns.org/Smart.php?id=Hbo
+#EXTINF:-1,电影频道|HBO Signature
+https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
+#EXTINF:-1,电影频道|HBO Hits
+https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
+#EXTINF:-1,电影频道|SCM
+https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
+#EXTINF:-1,电影频道|Dreamworks
+https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
+#EXTINF:-1,电影频道|Thrill
+https://smart.pendy.dpdns.org/Smart.php?id=Thrill
+#EXTINF:-1,电影频道|Hits Movie
+https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
+#EXTINF:-1,电影频道|One
+https://smart.pendy.dpdns.org/Smart.php?id=One
+#EXTINF:-1,电影频道|tvN Movie
+https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
+#EXTINF:-1,电影频道|Celestial Classic
+https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
+#EXTINF:-1,电影频道|Celestial Movies HD
+https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
+#EXTINF:-1,电影频道|Axn HD
+https://smart.pendy.dpdns.org/Smart.php?id=Axn
+#EXTINF:-1,电影频道|Paramount Network
+https://smart.pendy.dpdns.org/Smart.php?id=Paramountnetwork
+#EXTINF:-1,电影频道|Astrol Kplus
+https://smart.pendy.dpdns.org/Smart.php?id=Kplus
+#EXTINF:-1,电影频道|Rock Actions
+https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
+#EXTINF:-1,电影频道|Rock Entertainment
+https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
+#EXTINF:-1,纪录频道|Natgeo_HD
+https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
+#EXTINF:-1,纪录频道|NatGeo_Wild HD
+https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
+#EXTINF:-1,纪录频道|Animal_Planet
+https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
+#EXTINF:-1,纪录频道|Discovery Asia
+https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+#EXTINF:-1,纪录频道|CI
+https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
+#EXTINF:-1,纪录频道|Discovery HD
+https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
+#EXTINF:-1,纪录频道|NatGeo HD
+https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
+#EXTINF:-1,纪录频道|Fashion TV
+https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
+#EXTINF:-1,纪录频道|History
+https://smart.pendy.dpdns.org/Smart.php?id=History
+#EXTINF:-1,纪录频道|BBC Earth HD
+https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
+#EXTINF:-1,纪录频道|BBC Earth Lifestyle
+https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
+#EXTINF:-1,纪录频道|NatGeo Wild HD
+https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
+#EXTINF:-1,纪录频道|Animal Planet (Eng)
+https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
+#EXTINF:-1,纪录频道|TLC
+https://smart.pendy.dpdns.org/Smart.php?id=Tlc
+#EXTINF:-1,纪录频道|Foodnetwork Hd
+https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
+https://smart.pendy.dpdns.org/Smart.php?id=MiaoMi
+#EXTINF:-1,儿童频道|Cartoon Network
+https://smart.pendy.dpdns.org/Smart.php?id=Cn
+#EXTINF:-1,儿童频道|Nickelodeon
+https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
+#EXTINF:-1,儿童频道|Nick Jr
+https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
+#EXTINF:-1,韩国|CBS
+https://smart.pendy.dpdns.org/Smart.php?id=cbs_korea
+#EXTINF:-1,韩国|EBS 1
+https://smart.pendy.dpdns.org/Smart.php?id=ebs1_korea
+#EXTINF:-1,韩国|EBS2
+https://smart.pendy.dpdns.org/Smart.php?id=ebs2_korea
+#EXTINF:-1,韩国|EBS Plus2
+https://smart.pendy.dpdns.org/Smart.php?id=ebsplus2_korea
+#EXTINF:-1,韩国|SBS Plus
+https://smart.pendy.dpdns.org/Smart.php?id=sbsplus_korea
+#EXTINF:-1,韩国|YTN
+https://smart.pendy.dpdns.org/Smart.php?id=ytn_korea
+#EXTINF:-1,韩国|KBS World 24
+https://smart.pendy.dpdns.org/Smart.php?id=kbsworld24_korea
+#EXTINF:-1,韩国|YTN Science
+https://smart.pendy.dpdns.org/Smart.php?id=ytnscience_korea
+#EXTINF:-1,韩国|YTN Korean
+https://smart.pendy.dpdns.org/Smart.php?id=ytnkorean_korea
+#EXTINF:-1,韩国|YTN DMB
+https://smart.pendy.dpdns.org/Smart.php?id=ytndmb_korea
+#EXTINF:-1,韩国|Apps TV
+https://smart.pendy.dpdns.org/Smart.php?id=appongoogle_korea
+#EXTINF:-1,韩国|All the Kpop
+https://smart.pendy.dpdns.org/Smart.php?id=allthekpop_korea
+#EXTINF:-1,韩国|J the Kpop
+https://smart.pendy.dpdns.org/Smart.php?id=jthekpop_korea
+#EXTINF:-1,日本|BS-TBS
+https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
+#EXTINF:-1,日本|NHK Oaska
+https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
