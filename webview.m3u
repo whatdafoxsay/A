@@ -1,21 +1,21 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-1 综合
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-1 综合
 webview://https://tv.cctv.com/live/cctv1/
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视;央视频",CCTV-1 综合
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视;央视频",CCTV-1 综合
 webview://https://yangshipin.cn/tv/home?pid=600001859
 
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-2 财经
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-2 财经
 webview://https://tv.cctv.com/live/cctv2/
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视;央视频",CCTV-2 财经
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视;央视频",CCTV-2 财经
 webview://https://yangshipin.cn/tv/home?pid=600001800
 
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-3 综艺
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-3 综艺
 webview://https://tv.cctv.com/live/cctv3/
 
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际
 webview://https://tv.cctv.com/live/cctv4/
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视;央视频",CCTV-4 中文国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视;央视频",CCTV-4 中文国际
 webview://https://yangshipin.cn/tv/home?pid=600001814
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视;央视频",CCTV-4 中文国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视;央视频",CCTV-4 中文国际
 webview://https://www.youtube.com/watch?v=SdzewdkJa-o
