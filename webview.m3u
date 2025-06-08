@@ -17,5 +17,3 @@ webview://https://tv.cctv.com/live/cctv3/
 webview://https://tv.cctv.com/live/cctv4/
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视;央视频",CCTV-4 中文国际
 webview://https://yangshipin.cn/tv/home?pid=600001814
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视;央视频",CCTV-4 中文国际
-webview://https://www.youtube.com/watch?v=SdzewdkJa-o
